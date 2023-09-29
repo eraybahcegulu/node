@@ -13,9 +13,10 @@ app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname,'public/html', 'login.html'));
 })
 _______________________________________________________
+(public/html/login.html - public/css/bootstrap.min.css)
 *login.html*
 
-x <link href="public/css/bootstrap.min.css" rel="stylesheet"> x
+x <link href="../css/bootstrap.min.css" rel="stylesheet"> x
 <link href="bootstrap.min.css" rel="stylesheet">
 _________________________________________________________
 ```
