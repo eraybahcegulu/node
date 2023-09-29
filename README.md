@@ -2,7 +2,7 @@
 # node
 
 * ?Anonymous status must be activated to sign up with Firebase Authentication.
-=======
+
 # node-chat
 ```
 _______________________________________________________
@@ -25,4 +25,3 @@ x <link href="../css/bootstrap.min.css" rel="stylesheet"> x
 <link href="bootstrap.min.css" rel="stylesheet">
 _________________________________________________________
 ```
->>>>>>> 4287b06457e25df3498f43d33fdbd0915126fe94
