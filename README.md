@@ -2,7 +2,6 @@
 
 * ?Anonymous status must be activated to sign up with Firebase Authentication.
 
-# node-chat
 ```
 _______________________________________________________
 *app.js*
