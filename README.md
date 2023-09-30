@@ -6,9 +6,12 @@
 _______________________________________________________
 *app.js*
 
+*****************"type": "module",**********************
 import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+********************************************************
+
 app.use(express.static(path.join(__dirname, 'public/html')));
 app.use(express.static(path.join(__dirname, 'public/css')));
 
